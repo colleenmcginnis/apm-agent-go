@@ -9,7 +9,7 @@ recommend you to [migrate to the OpenTelemetry Go API and
 SDK](https://www.elastic.co/blog/elastic-go-apm-agent-to-opentelemetry-go-sdk),
 which provides similar features. In order to help you do a seamless migration,
 we recommend using our [OpenTelemetry
-Bridge](https://www.elastic.co/guide/en/apm/agent/go/current/opentelemetry.html).
+Bridge](https://www.elastic.co/docs/reference/apm/agents/go/opentelemetry-api).
 Please refer to the blog post above for further details.
 
 # apm-agent-go: APM Agent for Go
@@ -32,7 +32,7 @@ go get go.elastic.co/apm/v2
 Requires [APM Server](https://github.com/elastic/apm-server) v6.5 or newer.
 
 You can find a list of the supported frameworks and other technologies in the
-[documentation](https://www.elastic.co/guide/en/apm/agent/go/current/supported-tech.html).
+[documentation](https://www.elastic.co/docs/reference/apm/agents/go/supported-technologies).
 
 ## License
 
@@ -40,7 +40,7 @@ Apache 2.0.
 
 ## Documentation
 
-[Elastic APM Go documentation](https://www.elastic.co/guide/en/apm/agent/go/current/index.html).
+[Elastic APM Go documentation](https://www.elastic.co/docs/reference/apm/agents/go).
 
 ## Getting Help
 
